@@ -1,0 +1,78 @@
+Mini game Paint Ball - Jogadores vão lutar sí por sí em busca da vitória, kills feitos com bolinha de neve. ( Arena de PaintBall estilo arena vida real)
+
+Minigame Spleef - Jogadores iram quebrar o chão de neve para derrubar os outros no evento, último ganha. ( Arena padrão spleef com chão de neve, cascalho e areia ).
+
+Evento assassinato - Jogador aleatório escolhido para matar todos do evento más ninguém saberá quem é, caso ele mate todos ganhará o evento. Se falhar os que sobreviveram levam seu prêmio ( Arena aberta estilo Arenas padrão do servidor).
+
+Evento killer - Jogadores lutam sem gangues último vivo ganha ( Arena aberta estilo gladiador).
+
+Evento Fight Boxe - Fight só que pelado = na mão ( Mesma arena do fight).
+
+Evento Leilão - Um item valioso é leiloado a cada reiniciada quando o servidor atingir uma quantidade de jogadores, maior aposta leva.
+
+Evento Bingo - Sequências de números são anunciadas no chat, quem fazer esta sequência no chat e enviar primeiro vence.
+
+Evento Bolão - Jogadores apostam uma quantidade aleatória de coins tendo chance de ganhar tudo que foi apostado.
+
+Evento Loteria - Jogadores podem apostar na loteria pagando uma quantidade a cada número, primeiro a acertar ganha o prêmio.
+
+Evento Fight PvP - 1v1 ate sobrar um jogador ( Arena redonda com bancadas de camarote e uma central de lutas)
+
+X1 - Players escolhem alguém para batalhar com itens livres ou kit ( Arena com 2 lados e bancos ao lado estilo fight com camarote)
+
+Evento Guerra - Gangues vão lutar entre sí, última viva vence ( Arena grande e bem decorada estilo mais importante '-', pois, é um evento bem esperado pelos players
+
+Evento Nexus - Mobs atacam player's, ultimo vivo ganha, estilo Mobs vs Players ( Arena com casas de gaiolas e uma central onde os jogadores vão lutar contra mobs e o Boss)
+
+Evento TheDragon - primeiro a matar o dragão ganha ( Arena com estilo The End para matar o dragão)
+
+Evento TheWither - primeiro a matar o wither ganha ( Arena com estilo The Nether para matar o wither)
+
+Evento Corrida 1.0 - corrida normal com poucas interferências (Arema de corrida com parkour simples)
+
+Evento Corrida 2.0 - corrida com parkour (Arena de corrida com parkour).
+
+Evento Corrida 3.0 - corrida com parkour e labirinto(Arena de corrida com parkour e labirintos)
+
+Evento Corrida 4.0 - corrida com enderpearl" teleporta com as enderpearls" (Arena estilo tiro ao alvo onde os jogadores tem que acertar o local de vitória jogando enderpearls para cima)
+
+Evento Cavalaria - Jogadores vão se matar como evento guerreiro, más, todos a cavalo. ( Arena aberta e livre estilo medieval )
+
+Evento O Arqueiro - Jogadores precisam se posicionar na Invencibilidade e começarem a jogar flechas, 1 Flecha é o necessário para matar alguém. Ambos vão receber flechas pela quantidade de jogadores no evento, ao matar alguém ganhará + 2 flechas. Ao final que sobrar apenas 1 ou todos jogadores morrerem o sistema irá analisar quem matou mais, este ganhará o prêmio. ( Arena aberta com bases para se esconderem )
+
+Evento Tapete transparente -  Player's vao ficar encima de um tapete de vidro que irá começar a sumir alguns desses vidros, o último ganha( Arena simples com chão de vidro ).
+
+Evento Quiz - Perguntas aleatórias vão aparecer, errou saiu, não sabe saiu. Último WINS.(Arena com local {Verdadeiro=verde} {Falso=vermelho} {Não sei= aleatório}).
+ 
+Evento Matemática - Contas aleatórias começam a aparecer para quem esta no evento, todos tem 10 segundos ou mais para responder. Quem errar sai, quem demorar sai. Último WINS(Lobby para evento apenas)
+
+Evento Chat - Em Horários aleatórios mensagens vão aparecer no chat, tais como (Clique aqui para vencer o evento) Ou, (Quem digitar no chat  'Ola' primeiro vence) Ou, primeiro a votar em nosso servidor apartir de agora vence o evento.
+
+Evento Feira - Lugar onde tudo e vendido mais barato e vips podem construir sua "banca"
+
+Celeiro - Local estilo fazenda para venda de plantações e outros.
+
+Lobby - Lobby de eventos para espera.
+
+Gladiator Coins - Moedas próprias para os ganhadores de um evento gladiador, estas podem ser usadas para compra nas lojas gladiadoras.
+
+Gladiator Shop - Sala de eventos com um enderdragon de decoração, algo sombrio com uma aparência levada a batalhas cooperativas. Espaço pequeno e fechado.
+
+Magical Chests - Sistema de Baús que são ganhos minerando ou colhendo plantações. São abertos com chaves ganhadas matando outros jogadores. Estes são vendidos na Gladiator Shop ou Aura Shop.
+
+Aura Coins - Moeda própria adquirida apenas comprando em nosso site onde pode ser usada para comprar itens raros do servidor.
+
+Aura Shop - Sala para vendas de itens com alguns hologramas de decoração, algo que leve a diversão, colorida e bem decorada, espaço pequeno e aberto.
+
+MobTraps - Espaços para matar mobs e receber exp e itens. Lugar como um corredor com extremas a esquerda e direita levando aos lugares separados para cada tipo de mob e tipo de agressividade.
+
+MobTrap Shop - Espaço para venda dos itens recebidos matando os mobs.
+
+Area de Treino - Área vip para treinamento de skills.
+
+Sistema de Skills - Sistema de Skills próprias do servidor com levels limitados e vantagens encima.
+
+Encantamentos - Todos jogadores terão uma chance de reparamento e encantamento, caso essa chance não seja alcançada o(s) item(s) serão perdidos.
+
+Itens Edit - Skills darão aos jogadores uma vantagem ao usar suas armas como: chance dr crítico, chance de aplicar poções aos adversários e etc. Armaduras darão mais vida aos jogadores, mais defesa, efeitos de poções vantajosas e muito mais. (Todas adicionadas nas armaduras por meio de Powers que são adquiridos abrindo caixas mágicas, ganhando eventos ou matando boss's dos mobspawners. (Mobs agressivos do mobspawner VIP dropam powers quebradas que podem ser juntadas e formadas em Powers reais, estes alterados nos Villagers mágicos para receber poderes.)
+
